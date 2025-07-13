@@ -14,5 +14,7 @@ https://github.com/BHASVIC-willmoore24/JavaCourse
 # Group Projects
 
 ## Animalopoly
-https://replit.com/@willmoore223/animalopoly?v=1
+https://replit.com/@willmoore223/animalopoly?v=1  
 
+## Hotel Kashyyyk
+https://github.com/BHASVIC-willmoore24/HotelKashyyyk  
