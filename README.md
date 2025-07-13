@@ -5,7 +5,7 @@
 - Currently working on A-Level computer science coursework
 - Relevant qualifications: grade 9 computer science GCSE
 - Soft skills: hard-working, teamwork, determined
-- Enjoy learning more about computer science in my free time; I practise programming frequently and use Linux
+- Enjoy learning more about computer science in my free time; I practise programming frequently and use Linux as my main OS
 
 ## Learning Java
 
